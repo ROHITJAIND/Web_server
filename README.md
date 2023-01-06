@@ -59,7 +59,12 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![OUTPUT](./image/output.png)
+SERVER SIDE OUTPUT
+
+![Screenshot from 2023-01-06 12-45-31](https://user-images.githubusercontent.com/118707073/210950787-0f804581-294b-4d8c-9b72-bf7d274e19d7.png)
+
+CLIENT SIDE OUTPUT
+![Screenshot from 2023-01-06 12-56-10](https://user-images.githubusercontent.com/118707073/210951628-d7317212-b198-444b-8fe2-8528eeb69af6.png)
 
 ## RESULT:
 The program for implementing simple web is executed succesfully.
